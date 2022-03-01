@@ -1,3 +1,19 @@
+# Kubernetes pratice
+
+### Installing
+
+kubernetes
+
+> choco install kubernetes-cli
+
+
+Minikube
+
+> choco install minikube
+
+
+### Main commands
+
 ```
 kubectl create -f pod.yml
 kubectl apply -f pod.yml
